@@ -9,6 +9,13 @@
 ## Summary
 #### Infinity is not the limit
 
+## Skills
+ * #### HTML
+ * #### CSS
+ * #### JavaScript
+ * #### Java
+ * #### SQL
+
 ## Education
 #### SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
 
