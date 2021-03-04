@@ -1,0 +1,87 @@
+div, header, main, footer {
+  max-width: 900px;
+  min-width: 600px;
+}
+
+div {
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Verdana, sans-serif;
+  border: 2px solid black;
+  border-radius: 50px;
+}
+
+header {
+  height: 100px;
+  background-color: #ffe4e1;
+  border-top-left-radius: 47px;
+  border-top-right-radius: 47px;
+  border-bottom: 2px solid #000;
+}
+
+main {
+  padding-top: 5px;
+  background-color: #faf0e6;
+}
+
+footer {
+  background-color: #ffe4e1;
+  border-top: 2px solid #000;
+  border-bottom-right-radius: 47px;
+  border-bottom-left-radius: 47px;
+  height: 174px;
+}
+
+
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 25px;
+  width: 400px;
+  font-weight: 500;
+  text-align: center;
+}
+
+
+h2 {
+  margin-top: 0;
+  padding-top: 10px;
+  font-weight: 500px;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  width: 250px;
+  height: 250px;
+  border: 2px solid #000;
+  border-radius: 125px;
+}
+
+section { margin-left: 20px; }
+
+p {
+  margin-bottom: 0;
+  margin-left: 30px;
+  padding-bottom: 5px;
+  line-height: 1.7em;
+}
+
+a, a:visited {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+li { margin: 10px; }
+
+.university { text-transform: uppercase; }
+
+mark {
+  background: none;
+  font-weight: 700;
+}
+
+.contacts-items {
+  margin-bottom: 0;
+}
