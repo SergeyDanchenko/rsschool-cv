@@ -29,6 +29,7 @@ footer {
   border-top: 2px solid #000;
   border-bottom-right-radius: 47px;
   border-bottom-left-radius: 47px;
+  height: 174px;
 }
 
 
@@ -75,3 +76,12 @@ a:hover { text-decoration: underline; }
 li { margin: 10px; }
 
 .university { text-transform: uppercase; }
+
+mark {
+  background: none;
+  font-weight: 700;
+}
+
+.contacts-items {
+  margin-bottom: 0;
+}
